@@ -2,10 +2,12 @@
 ✈️ HighCloud Airlines: Business Performance & Operations Analytics Dashboard
 
 1️⃣ Project Title / Headline
+
 ✈️ HighCloud Airlines – Business Performance Analytics Dashboard
 An interactive Power BI dashboard designed to analyze airline operations, customer behavior, and revenue performance across routes, aircraft, and time periods.
 
 2️⃣ Short Description / Purpose
+
 The HighCloud Airlines Analytics Dashboard is a data-driven Power BI solution built to help airline stakeholders monitor operational efficiency, revenue trends, and passenger insights. The dashboard enables quick decision-making by transforming raw airline data into clear, actionable visual insights.
 
 3️⃣ Tech Stack
